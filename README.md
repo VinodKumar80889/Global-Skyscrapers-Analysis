@@ -24,6 +24,11 @@ The dataset contains **99 skyscraper records** with 9 columns:
 - Usage
 - Record Number
 
+## 📸 Dashboard Preview
+
+![Global Skyscrapers Analysis Dashboard](./Screenshot%202026-11-21%20125102.png)
+
+
 ## 📈 Dashboard Features
 
 ### KPI Cards
