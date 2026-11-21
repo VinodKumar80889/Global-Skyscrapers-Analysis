@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 Global Skyscrapers Analysis is an interactive Power BI dashboard designed to explore and analyze skyscrapers across different cities worldwide.
 
+## 📸 Dashboard Preview
+
+![Global Skyscrapers Analysis Dashboard](./Screenshot%202026-11-21%20125102.png)
+
+
 The dashboard provides insights into building heights, construction periods, materials, usage categories, and city-wise distribution through interactive visualizations and filters.
 
 ## 🛠️ Tools & Technologies
@@ -23,11 +28,6 @@ The dataset contains **99 skyscraper records** with 9 columns:
 - Material
 - Usage
 - Record Number
-
-## 📸 Dashboard Preview
-
-![Global Skyscrapers Analysis Dashboard](./Screenshot%202026-11-21%20125102.png)
-
 
 ## 📈 Dashboard Features
 
